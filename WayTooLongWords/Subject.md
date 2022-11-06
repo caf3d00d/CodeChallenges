@@ -17,20 +17,32 @@ The first line contains an integer n (1 ≤ n ≤ 100). Each of the foll
 Print n lines. The i-th line should contain the result of replacing of the i-th word from the input data.
 
 ### Examples
----
+-----------------------
 #### input
----
+-----------------------
+
 4
+
 word
+
 localization
+
 internationalization
+
 pneumonoultramicroscopicsilicovolcanoconiosis
----
+
+-----------------------
+***
 #### output
----
+-----------------------
+
 word
+
 l10n
+
 i18n
+
 p43s
+
 ---
 
